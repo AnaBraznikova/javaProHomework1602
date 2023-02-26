@@ -7,7 +7,7 @@ public class Apple extends Phone {
     }
 
     private String name;
-    private String number;
+   
 
 
     public Apple() {
