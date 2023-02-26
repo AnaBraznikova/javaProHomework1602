@@ -15,7 +15,7 @@ public class Apple extends Phone {
 
     @Override
     public void call() {
-        //super.call("Phone " + name);
+        //super.call();
         System.out.println("Phone " + name + " call to " + "+" + getRandomNumber());
     }
 
